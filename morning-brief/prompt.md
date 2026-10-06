@@ -1,0 +1,1 @@
+Run my morning brief using the anthropic-skills:morning skill (/morning). This is an unattended scheduled run: just render the brief, no connector suggestions. Write the brief in English. My name is James and my home timezone is America/New_York. Use Google Calendar (primary + Family calendars) and Gmail. Publish the finished page as an Artifact so I can open it from my phone.
